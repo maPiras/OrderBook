@@ -1,2 +1,0 @@
-# OrderBook
-See "Document.pdf"
